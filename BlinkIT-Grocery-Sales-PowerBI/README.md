@@ -22,6 +22,8 @@ An interactive Power BI dashboard developed to analyze BlinkIT grocery sales per
 
 The project includes an interactive Power BI dashboard with KPIs, charts, filters, and business insights.
 
+![BlinkIT Grocery Sales Dashboard](Screenshot%202026-09-05%20000518.png)
+
 ## Key Insights
 
 Insights will be documented based on the final dashboard analysis.
