@@ -175,6 +175,19 @@ IPL-Analysis-PowerBI/
 ├── IPL_Analysis_Dashboard.png
 ├── IPL_Dataset.zip
 └── README.md
+```
+
+---
+
+## Project Outcome
+
+The project converts IPL data into an interactive and visually engaging Power BI dashboard.
+
+It provides a centralized view of tournament, team, player, and scoring statistics and allows users to explore the data through interactive season selection and visualizations.
+
+The project demonstrates the complete workflow of a data analytics project, from data preparation and transformation to data modeling, analysis, visualization, and presentation.
+
+---
 
 ## Conclusion
 
