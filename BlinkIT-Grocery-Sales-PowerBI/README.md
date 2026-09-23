@@ -14,6 +14,7 @@ The dashboard focuses on sales performance, outlet characteristics, product cate
 - Identify key business metrics
 - Compare sales across different outlet characteristics
 - Understand the impact of outlet size, location, and type on sales
+- Identify patterns that can support data-driven business decisions
 
 ## Tools & Technologies
 
@@ -24,7 +25,7 @@ The dashboard focuses on sales performance, outlet characteristics, product cate
 
 ## Dashboard Preview
 
-![BlinkIT Grocery Sales Dashboard](Screenshot%202026-09-05%20000518.png)
+![BlinkIT Grocery Sales Dashboard](BlinkIT_Grocery_Sales_Dashboard.png)
 
 ## Key KPIs
 
@@ -47,7 +48,16 @@ The dashboard provides analysis across:
 
 ## Key Insights
 
-Key business insights are derived from the dashboard based on sales performance, outlet characteristics, product categories, and customer ratings.
+The dashboard helps identify important patterns in grocery sales performance based on:
+
+- Outlet characteristics
+- Product categories
+- Sales performance
+- Customer ratings
+- Outlet size and location
+- Fat content distribution
+
+These insights can help understand which outlet and product characteristics are associated with sales performance.
 
 ## Business Recommendations
 
@@ -61,11 +71,15 @@ Key business insights are derived from the dashboard based on sales performance,
 
 - `BlinkIT_Grocery_Sales_Dashboard.pbix` — Power BI dashboard
 - `BlinkIT_Grocery_Data.xlsx` — Dataset
-- `Screenshot 2026-09-05 000518.png` — Dashboard preview
+- `BlinkIT_Grocery_Sales_Dashboard.png` — Dashboard preview
 - `README.md` — Project documentation
 
 ## Conclusion
 
 This project demonstrates the use of Power BI, Power Query, and DAX to transform grocery sales data into an interactive business intelligence dashboard.
 
-The analysis provides a clear view of sales performance and outlet characteristics that can support data-driven business decisions.
+The analysis provides a clear view of sales performance, product categories, customer ratings, and outlet characteristics to support data-driven business decisions.
+
+---
+
+**Tools Used:** Power BI | Power Query | DAX | Microsoft Excel
