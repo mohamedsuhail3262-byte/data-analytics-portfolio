@@ -160,7 +160,7 @@ HR-Analytics-PowerBI/
 │
 ├── HR_Analytics_Dashboard.pbix
 ├── HR_Analytics_Dashboard.png
-├── HR_Analytics_Dataset.xlsx
+├── HR_Analytics_Dataset.csv
 └── README.md
 ```
 
