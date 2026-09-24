@@ -132,7 +132,7 @@ The dataset includes information used to analyze:
 
 The dataset used for the project is included in the repository as:
 
-`HR_Analytics_Dataset.xlsx`
+`HR_Analytics_Dataset.csv`
 
 ---
 
@@ -148,7 +148,7 @@ The dataset used for the project is included in the repository as:
 |------|-------------|
 | `HR_Analytics_Dashboard.pbix` | Power BI dashboard and data model |
 | `HR_Analytics_Dashboard.png` | Dashboard preview image |
-| `HR_Analytics_Dataset.xlsx` | Dataset used for the analysis |
+| `HR_Analytics_Dataset.csv` | Dataset used for the analysis |
 | `README.md` | Project documentation |
 
 ---
