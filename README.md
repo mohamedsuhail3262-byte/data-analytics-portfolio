@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-Hi, I'm Mohamed Suhail — an aspiring Data Analyst with hands-on experience in Python, SQL, Power BI, and Excel.
+Hi, I'm Mohamed Suhail S — an aspiring Data Analyst with hands-on experience in Python, SQL, Power BI, and Excel.
 
 ## Skills
 
